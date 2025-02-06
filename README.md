@@ -6,9 +6,9 @@ This project helps the program or event organizing company
     <li>
        to add/edit/delete programs
     </li>
-    <l1>
+    <li>
       update the status of programs 
-    </l1>
+    </li>
     <li>
       check list of feedbacks of programs
     </li>
@@ -34,3 +34,16 @@ This project helps the program or event organizing company
    </li>
    
  </ol>
+
+ <h2>
+   Steps to run the project:
+ </h2>
+ <ul>
+   <li>
+     Download this file
+   </li>
+   <li>
+     ![bookevent](https://github.com/user-attachments/assets/713f08ba-e828-4ba3-8f07-c5f5b366714e)
+
+   </li>
+ </ul>
