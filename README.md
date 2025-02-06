@@ -58,3 +58,7 @@ This project helps the program or event organizing company
      Run the project on Java Enterprise Edition in a tomcat server
    </li>
  </ul>
+
+ <h2>
+   Technologies used are J2EE (JSP, Servlets, Controllers), MVC Architecture, Core Java, HTML, CSS, Bootstrap, JS
+ </h2>
